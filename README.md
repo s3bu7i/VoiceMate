@@ -1,4 +1,5 @@
-# VoiceMate - Your Personal Voice Assistant
+![VoiceMate](https://camo.githubusercontent.com/c2c83648ee009d0c658825e63b29900a186829298a4c77d75863a9dc5229a777/687474703a2f2f692e696d6775722e636f6d2f785a38783945532e6a7067)
+# VoiceMate - Your Personal Voice Assistant(Dino)
 
 VoiceCompanion is a Python-based voice assistant that can perform a variety of tasks through voice commands. It uses the power of speech recognition, text-to-speech conversion, and integrates with various APIs to provide a seamless experience for the user.
 
@@ -24,6 +25,7 @@ VoiceCompanion is a Python-based voice assistant that can perform a variety of t
 1. Launch the script and wait for the initialization message.
 2. Say "Hello" to activate the voice assistant.
 3. Issue voice commands for various tasks.
+4. To learn the commands you can see the commands.txt file `commands.txt`
 
 ## Contributing
 
