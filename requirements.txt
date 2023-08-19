@@ -1,0 +1,12 @@
+pyttsx3==2.90
+SpeechRecognition==3.8.1
+wikipedia==1.4.0
+pyautogui==0.9.53
+psutil==5.8.0
+
+
+pip install pyttsx3
+pip install SpeechRecognition 
+pip install wikipedia
+pip install pyautogui 
+pip install psutil

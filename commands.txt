@@ -1,0 +1,16 @@
+Available Commands:
+
+1. Time - Tells the current time.
+2. Wikipedia - Searches Wikipedia for information.
+3. Send Email - Sends an email.
+4. Search in Chrome - Opens a search query in Chrome.
+5. Logout - Logs out the current user.
+6. Shutdown - Shuts down the computer.
+7. Restart - Restarts the computer.
+8. Play Song - Plays a song.
+9. Remember That - Remembers a piece of information.
+10. Do You Know Anything - Retrieves the remembered information.
+11. Screenshot - Takes a screenshot.
+12. CPU - Provides information about CPU usage and battery.
+13. Date - Tells the current date.
+14. Offline - Quits the program.
