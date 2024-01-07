@@ -1,4 +1,4 @@
-![VoiceMate](https://camo.githubusercontent.com/c2c83648ee009d0c658825e63b29900a186829298a4c77d75863a9dc5229a777/687474703a2f2f692e696d6775722e636f6d2f785a38783945532e6a7067)
+![VoiceMate](https://camo.githubusercontent.com/8467896317923bc54311407d4663d369b1d6c2d3680b8dc7438361e590b2d657/687474703a2f2f692e696d6775722e636f6d2f785a38783945532e6a7067)
 # VoiceMate - Your Personal Voice Assistant(Dino)
 
 VoiceCompanion is a Python-based voice assistant that can perform a variety of tasks through voice commands. It uses the power of speech recognition, text-to-speech conversion, and integrates with various APIs to provide a seamless experience for the user.
